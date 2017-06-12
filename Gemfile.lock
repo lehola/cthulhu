@@ -1,3 +1,4 @@
-source 'https://rubygems.org'
-
-gem 'discordrb'
+GEM
+  remote: https://rubygems.org/
+specs:
+    discordrb 
